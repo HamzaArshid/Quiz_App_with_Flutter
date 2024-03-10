@@ -1,0 +1,36 @@
+
+import 'package:flutter_quiz_app/modelClass.dart';
+
+final List<modelClass> questionList=[
+  modelClass("Q 1).Who is the Founder of Pakistan",
+      ["A.Allama Iqbal","B.Quaid-e-Azam","C.Fatima Jinnah",],
+      1),
+  modelClass("Q 2).Who is the Curren PM of Pakistan",
+  ["A.Nawaz Shreef","B.Shabaz Shreef","C.Imran Khan"],
+    1),
+  modelClass("Q 3).What is the sum of 2+2",
+      ["A.6","B.3","C.4"],
+      2),
+  modelClass("Q 4).What is the Product  of 8*2",
+      ["A.16","B.53","C.24"],
+      0),
+  modelClass("Q 5).What is the Divider of 10|5",
+      ["A.56","B.2","C.50"],
+      1),
+  modelClass("Q 6).What is the Sum of 800+200",
+      ["A.1060","B.1000","C.800200"],
+      1),
+  modelClass("Q 7).What is the Product Of 7*7",
+      ["A.56","B.28","C.49"],
+      2),
+  modelClass("Q 8).What is the Sum of 16+20",
+      ["A.36","B.37","C.38"],
+      0),
+  modelClass("Q 9).What is the Product of 9*9",
+      ["A.90","B.99","C.81"],
+      2),
+  modelClass("Q 10).What is the Sum of 8+1",
+      ["A.9","B.20","C.10"],
+      0),
+
+];
