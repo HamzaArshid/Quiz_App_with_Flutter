@@ -68,7 +68,7 @@ class _quizScreenState extends State<quizScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.grey.shade400,
-        title: Center(child: Text("Quiz App")),
+        title: Center(child: Text("QUIZ APP")),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
